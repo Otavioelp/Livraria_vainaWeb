@@ -3,7 +3,7 @@ import Twitter from '../../assets/Twitter.png'
 import Youtube from '../../assets/youtube.png'
 import Linkedin from '../../assets/linkedin.png'
 import Facebook from '../../assets/facebook.png'
-import s from '../Footer/footer.module.scss'
+import s from '../Footer/Footer.module.scss'
 
 export default function Footer(){
     return(

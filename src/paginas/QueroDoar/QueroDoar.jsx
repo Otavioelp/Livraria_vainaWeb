@@ -1,4 +1,4 @@
-import s from '../QueroDoar/querodoar.module.scss'
+import s from '../QueroDoar/Querodoar.module.scss'
 import Livro from '../../assets/livro.png'
 export default function QueroDoar(){
     return(

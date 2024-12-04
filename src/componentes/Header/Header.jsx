@@ -5,7 +5,7 @@ import Inicio from '../../paginas/Inicio/Inicio';
 import LivrosDoados from '../../paginas/Livrosdoados/LivrosDoados'
 import QueroDoar from '../../paginas/QueroDoar/QueroDoar'
 import Lupa from '../../assets/Lupa.png/'
-import s from '../header/header.module.scss'
+import s from '../Header/Header.module.scss'
 
 export default function Header() {
     return(
