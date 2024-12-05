@@ -1,4 +1,4 @@
-import s from '../Inicio/Inicio.module.scss'
+import s from './Inicio.module.scss'
 import Imagem1 from '../../assets/imagem1.png'
 import Imagem2 from '../../assets/imagem2.png'
 import Imagem3 from '../../assets/imagem3.png'

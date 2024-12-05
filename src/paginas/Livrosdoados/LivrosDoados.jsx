@@ -1,5 +1,5 @@
 import Protagonista from '../../assets/protagonista.png'
-import s from '../Livrosdoados/Livrosdoados.module.scss'
+import s from './Livrosdoados.module.scss'
 
 export default function LivrosDoados(){
     return(
